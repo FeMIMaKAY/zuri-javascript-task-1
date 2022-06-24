@@ -1,9 +1,5 @@
-let Name = "Oluwafemi"
+const myName = "Makanjuola Oluwafemi";
+const myHeight = "198 cm";
+const myCountry = "Nigeria";
 
-let Height = "198cm"
-
-let Country = "Nigeria"
-
-console.log(Name);
-console.log(Height);
-console.log(Country);
+alert(`My name is ${myName}\nMy height is ${myHeight}\nMy country is ${myCountry}`)
